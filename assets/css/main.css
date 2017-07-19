@@ -1385,7 +1385,7 @@
 		letter-spacing: 0.075em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		
+
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2698,7 +2698,7 @@
 		}
 
 			#header header h1, #header header h2, #header header h3, #header header h4, #header header h5, #header header h6, #header header strong, #header header b {
-				color:#2E1D19;
+				color:#FFFFFF;
 			}
 
 			#header header a {
@@ -2720,7 +2720,7 @@
 				}
 
 			#header header p {
-				color: #2E1D19;
+				color: #FFFFFF;
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
 			}
